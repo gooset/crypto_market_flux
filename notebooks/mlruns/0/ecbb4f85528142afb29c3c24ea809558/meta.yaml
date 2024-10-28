@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/ecbb4f85528142afb29c3c24ea809558/artifacts
+end_time: 1729433110419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecbb4f85528142afb29c3c24ea809558
+run_name: rogue-croc-75
+run_uuid: ecbb4f85528142afb29c3c24ea809558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433110404
+status: 3
+tags: []
+user_id: studio-lab-user

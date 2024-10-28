@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/3556d607b1c84905b2c12b6cf01587e0/artifacts
+end_time: 1729433018707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3556d607b1c84905b2c12b6cf01587e0
+run_name: thoughtful-ape-163
+run_uuid: 3556d607b1c84905b2c12b6cf01587e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433018690
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/afcf6279896b41fbbab2d73ea9485e1e/artifacts
+end_time: 1729433135154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afcf6279896b41fbbab2d73ea9485e1e
+run_name: delightful-mink-604
+run_uuid: afcf6279896b41fbbab2d73ea9485e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433135122
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/9dce49c029fa43dcbe540bc980b4a5f1/artifacts
+end_time: 1729433178945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dce49c029fa43dcbe540bc980b4a5f1
+run_name: wise-trout-444
+run_uuid: 9dce49c029fa43dcbe540bc980b4a5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433178915
+status: 3
+tags: []
+user_id: studio-lab-user

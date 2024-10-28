@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/0a1416d094bb46819c429aaa29f5ffd4/artifacts
+end_time: 1729433064570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a1416d094bb46819c429aaa29f5ffd4
+run_name: awesome-tern-760
+run_uuid: 0a1416d094bb46819c429aaa29f5ffd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433064553
+status: 3
+tags: []
+user_id: studio-lab-user

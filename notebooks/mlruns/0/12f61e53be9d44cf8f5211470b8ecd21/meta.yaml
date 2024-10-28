@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/12f61e53be9d44cf8f5211470b8ecd21/artifacts
+end_time: 1729433104852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f61e53be9d44cf8f5211470b8ecd21
+run_name: efficient-moth-37
+run_uuid: 12f61e53be9d44cf8f5211470b8ecd21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433104831
+status: 3
+tags: []
+user_id: studio-lab-user

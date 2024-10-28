@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/85118570c14e43a88806b54e6990fdfb/artifacts
+end_time: 1729433159800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85118570c14e43a88806b54e6990fdfb
+run_name: clean-mule-911
+run_uuid: 85118570c14e43a88806b54e6990fdfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433159784
+status: 3
+tags: []
+user_id: studio-lab-user

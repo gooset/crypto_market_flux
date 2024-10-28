@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/10fefa023b5e432a9d98ead26c63bfd7/artifacts
+end_time: 1729432736581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10fefa023b5e432a9d98ead26c63bfd7
+run_name: calm-wasp-276
+run_uuid: 10fefa023b5e432a9d98ead26c63bfd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432736566
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/0ab681121c9c4129a68db3e20eb6805e/artifacts
+end_time: 1729432614477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ab681121c9c4129a68db3e20eb6805e
+run_name: mercurial-slug-966
+run_uuid: 0ab681121c9c4129a68db3e20eb6805e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432614462
+status: 3
+tags: []
+user_id: studio-lab-user

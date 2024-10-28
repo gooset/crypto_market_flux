@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/eae5e0f9d5b24668aa1445280b1a93ea/artifacts
+end_time: 1729433035690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eae5e0f9d5b24668aa1445280b1a93ea
+run_name: sincere-seal-71
+run_uuid: eae5e0f9d5b24668aa1445280b1a93ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433035676
+status: 3
+tags: []
+user_id: studio-lab-user

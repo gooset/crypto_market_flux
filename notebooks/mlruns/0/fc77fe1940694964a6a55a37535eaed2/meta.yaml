@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/fc77fe1940694964a6a55a37535eaed2/artifacts
+end_time: 1729432625048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc77fe1940694964a6a55a37535eaed2
+run_name: adventurous-cod-583
+run_uuid: fc77fe1940694964a6a55a37535eaed2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432625032
+status: 3
+tags: []
+user_id: studio-lab-user

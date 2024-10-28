@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/c60cf8c320b7425fb7559e5eafc91bea/artifacts
+end_time: 1729433025027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c60cf8c320b7425fb7559e5eafc91bea
+run_name: languid-mule-249
+run_uuid: c60cf8c320b7425fb7559e5eafc91bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433025006
+status: 3
+tags: []
+user_id: studio-lab-user

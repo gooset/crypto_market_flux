@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/681cff406b1041e6914390a8d87d8e6f/artifacts
+end_time: 1729433165954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 681cff406b1041e6914390a8d87d8e6f
+run_name: spiffy-slug-733
+run_uuid: 681cff406b1041e6914390a8d87d8e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433165936
+status: 3
+tags: []
+user_id: studio-lab-user

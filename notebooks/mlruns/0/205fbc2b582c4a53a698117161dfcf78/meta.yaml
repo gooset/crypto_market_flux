@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/205fbc2b582c4a53a698117161dfcf78/artifacts
+end_time: 1729432734146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 205fbc2b582c4a53a698117161dfcf78
+run_name: selective-rook-640
+run_uuid: 205fbc2b582c4a53a698117161dfcf78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432734133
+status: 3
+tags: []
+user_id: studio-lab-user

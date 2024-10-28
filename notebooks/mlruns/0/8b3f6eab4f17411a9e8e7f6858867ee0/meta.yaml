@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/8b3f6eab4f17411a9e8e7f6858867ee0/artifacts
+end_time: 1729432983655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b3f6eab4f17411a9e8e7f6858867ee0
+run_name: debonair-frog-985
+run_uuid: 8b3f6eab4f17411a9e8e7f6858867ee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432983637
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/6fbd1f783a9b4b26a6e76de440fc0a95/artifacts
+end_time: 1729432632394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fbd1f783a9b4b26a6e76de440fc0a95
+run_name: enchanting-snake-901
+run_uuid: 6fbd1f783a9b4b26a6e76de440fc0a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432632377
+status: 3
+tags: []
+user_id: studio-lab-user

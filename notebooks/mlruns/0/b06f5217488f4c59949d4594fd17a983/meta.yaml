@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/b06f5217488f4c59949d4594fd17a983/artifacts
+end_time: 1729432624223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b06f5217488f4c59949d4594fd17a983
+run_name: classy-pug-669
+run_uuid: b06f5217488f4c59949d4594fd17a983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432624211
+status: 3
+tags: []
+user_id: studio-lab-user

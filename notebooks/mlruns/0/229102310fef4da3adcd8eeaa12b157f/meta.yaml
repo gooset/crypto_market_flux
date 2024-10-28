@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/229102310fef4da3adcd8eeaa12b157f/artifacts
+end_time: 1729433127883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 229102310fef4da3adcd8eeaa12b157f
+run_name: sassy-snail-477
+run_uuid: 229102310fef4da3adcd8eeaa12b157f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433127868
+status: 3
+tags: []
+user_id: studio-lab-user

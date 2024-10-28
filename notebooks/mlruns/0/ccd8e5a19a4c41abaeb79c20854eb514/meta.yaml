@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/ccd8e5a19a4c41abaeb79c20854eb514/artifacts
+end_time: 1729432720556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccd8e5a19a4c41abaeb79c20854eb514
+run_name: dashing-tern-99
+run_uuid: ccd8e5a19a4c41abaeb79c20854eb514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432720540
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/c70522dad7694d7db0d7af671b7b905f/artifacts
+end_time: 1729432556739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c70522dad7694d7db0d7af671b7b905f
+run_name: sedate-hen-494
+run_uuid: c70522dad7694d7db0d7af671b7b905f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432556726
+status: 3
+tags: []
+user_id: studio-lab-user

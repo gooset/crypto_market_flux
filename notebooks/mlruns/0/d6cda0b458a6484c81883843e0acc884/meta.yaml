@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/d6cda0b458a6484c81883843e0acc884/artifacts
+end_time: 1729432735175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6cda0b458a6484c81883843e0acc884
+run_name: wise-sheep-283
+run_uuid: d6cda0b458a6484c81883843e0acc884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432735162
+status: 3
+tags: []
+user_id: studio-lab-user

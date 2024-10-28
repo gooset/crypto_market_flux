@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/f6115fcf03a3407c89e7b1d93f36c387/artifacts
+end_time: 1729432721690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6115fcf03a3407c89e7b1d93f36c387
+run_name: stylish-sloth-287
+run_uuid: f6115fcf03a3407c89e7b1d93f36c387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432721675
+status: 3
+tags: []
+user_id: studio-lab-user

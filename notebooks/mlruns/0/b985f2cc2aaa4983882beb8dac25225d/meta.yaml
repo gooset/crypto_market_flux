@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/b985f2cc2aaa4983882beb8dac25225d/artifacts
+end_time: 1729433012480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b985f2cc2aaa4983882beb8dac25225d
+run_name: magnificent-rook-18
+run_uuid: b985f2cc2aaa4983882beb8dac25225d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433012447
+status: 3
+tags: []
+user_id: studio-lab-user

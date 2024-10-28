@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/d29b5a7e96a7428dad4de9c2d4583a51/artifacts
+end_time: 1729432734734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d29b5a7e96a7428dad4de9c2d4583a51
+run_name: dazzling-trout-36
+run_uuid: d29b5a7e96a7428dad4de9c2d4583a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432734720
+status: 3
+tags: []
+user_id: studio-lab-user

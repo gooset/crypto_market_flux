@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/cc5293c717c842ea9f3dbb1bdd7156ad/artifacts
+end_time: 1729432720195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5293c717c842ea9f3dbb1bdd7156ad
+run_name: nebulous-hog-784
+run_uuid: cc5293c717c842ea9f3dbb1bdd7156ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432720182
+status: 3
+tags: []
+user_id: studio-lab-user

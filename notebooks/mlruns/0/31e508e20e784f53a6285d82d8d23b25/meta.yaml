@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/31e508e20e784f53a6285d82d8d23b25/artifacts
+end_time: 1729432619341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31e508e20e784f53a6285d82d8d23b25
+run_name: dapper-mouse-126
+run_uuid: 31e508e20e784f53a6285d82d8d23b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432619329
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/62189f40ffa14b0e95206145f87096aa/artifacts
+end_time: 1729433190686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62189f40ffa14b0e95206145f87096aa
+run_name: ambitious-pig-227
+run_uuid: 62189f40ffa14b0e95206145f87096aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433190668
+status: 3
+tags: []
+user_id: studio-lab-user

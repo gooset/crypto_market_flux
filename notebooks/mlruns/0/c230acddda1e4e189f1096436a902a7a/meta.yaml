@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/c230acddda1e4e189f1096436a902a7a/artifacts
+end_time: 1729432635587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c230acddda1e4e189f1096436a902a7a
+run_name: suave-cub-476
+run_uuid: c230acddda1e4e189f1096436a902a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432635577
+status: 3
+tags: []
+user_id: studio-lab-user

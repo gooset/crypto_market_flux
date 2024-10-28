@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/5a3ee38b385a499f89de18a072aca3ee/artifacts
+end_time: 1729432723059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a3ee38b385a499f89de18a072aca3ee
+run_name: sincere-rook-976
+run_uuid: 5a3ee38b385a499f89de18a072aca3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432723027
+status: 3
+tags: []
+user_id: studio-lab-user

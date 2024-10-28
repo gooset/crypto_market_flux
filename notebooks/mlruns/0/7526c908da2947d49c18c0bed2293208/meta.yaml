@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/7526c908da2947d49c18c0bed2293208/artifacts
+end_time: 1729432722073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7526c908da2947d49c18c0bed2293208
+run_name: unruly-fish-798
+run_uuid: 7526c908da2947d49c18c0bed2293208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432722060
+status: 3
+tags: []
+user_id: studio-lab-user

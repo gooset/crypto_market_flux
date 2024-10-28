@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/72e9bb5de07b446a81ac5ba87c94085c/artifacts
+end_time: 1729433172800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72e9bb5de07b446a81ac5ba87c94085c
+run_name: monumental-dog-245
+run_uuid: 72e9bb5de07b446a81ac5ba87c94085c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433172773
+status: 3
+tags: []
+user_id: studio-lab-user

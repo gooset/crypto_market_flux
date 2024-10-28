@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+mlflow
+optuna
+xgboost
+tensorflow  # Include this for LSTM and Keras layers
+plotly  

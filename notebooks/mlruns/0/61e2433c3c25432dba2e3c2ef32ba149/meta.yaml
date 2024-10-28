@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/61e2433c3c25432dba2e3c2ef32ba149/artifacts
+end_time: 1729432734498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61e2433c3c25432dba2e3c2ef32ba149
+run_name: big-gull-566
+run_uuid: 61e2433c3c25432dba2e3c2ef32ba149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432734484
+status: 3
+tags: []
+user_id: studio-lab-user

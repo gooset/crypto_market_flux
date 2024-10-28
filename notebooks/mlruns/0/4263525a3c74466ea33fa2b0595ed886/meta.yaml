@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/4263525a3c74466ea33fa2b0595ed886/artifacts
+end_time: 1729433184356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4263525a3c74466ea33fa2b0595ed886
+run_name: welcoming-ape-74
+run_uuid: 4263525a3c74466ea33fa2b0595ed886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433184334
+status: 3
+tags: []
+user_id: studio-lab-user

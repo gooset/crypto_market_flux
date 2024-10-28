@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/7d46878639b94d6e8a54e2d70fffe452/artifacts
+end_time: 1729433007958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d46878639b94d6e8a54e2d70fffe452
+run_name: unleashed-eel-406
+run_uuid: 7d46878639b94d6e8a54e2d70fffe452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433007943
+status: 3
+tags: []
+user_id: studio-lab-user

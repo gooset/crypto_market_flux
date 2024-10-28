@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/dfbe62984be44408832a6a12d10e51fe/artifacts
+end_time: 1729433154770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfbe62984be44408832a6a12d10e51fe
+run_name: sedate-ram-870
+run_uuid: dfbe62984be44408832a6a12d10e51fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433154732
+status: 3
+tags: []
+user_id: studio-lab-user

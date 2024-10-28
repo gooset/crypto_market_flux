@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/8eea604d1cea48d4a4b2f2e26be3bab8/artifacts
+end_time: 1729433031936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eea604d1cea48d4a4b2f2e26be3bab8
+run_name: clean-whale-475
+run_uuid: 8eea604d1cea48d4a4b2f2e26be3bab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433031916
+status: 3
+tags: []
+user_id: studio-lab-user

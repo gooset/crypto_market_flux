@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/7f7a2d853b9a49f9b1dc58b9c8d288e7/artifacts
+end_time: 1729433115368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f7a2d853b9a49f9b1dc58b9c8d288e7
+run_name: whimsical-shoat-287
+run_uuid: 7f7a2d853b9a49f9b1dc58b9c8d288e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433115350
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/46bffda95215481e8f1c178df2595bd0/artifacts
+end_time: 1729432735427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46bffda95215481e8f1c178df2595bd0
+run_name: marvelous-croc-999
+run_uuid: 46bffda95215481e8f1c178df2595bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432735408
+status: 3
+tags: []
+user_id: studio-lab-user

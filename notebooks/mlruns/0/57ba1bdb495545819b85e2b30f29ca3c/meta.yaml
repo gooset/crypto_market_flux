@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/57ba1bdb495545819b85e2b30f29ca3c/artifacts
+end_time: 1729433151805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57ba1bdb495545819b85e2b30f29ca3c
+run_name: legendary-finch-904
+run_uuid: 57ba1bdb495545819b85e2b30f29ca3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433151773
+status: 3
+tags: []
+user_id: studio-lab-user

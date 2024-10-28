@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/bbd0bafb9dd84bf4a407b23de5dd00c0/artifacts
+end_time: 1729433041036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbd0bafb9dd84bf4a407b23de5dd00c0
+run_name: chill-moose-317
+run_uuid: bbd0bafb9dd84bf4a407b23de5dd00c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433041017
+status: 3
+tags: []
+user_id: studio-lab-user

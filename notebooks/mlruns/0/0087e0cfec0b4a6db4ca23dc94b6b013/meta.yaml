@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/0087e0cfec0b4a6db4ca23dc94b6b013/artifacts
+end_time: 1729433049652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0087e0cfec0b4a6db4ca23dc94b6b013
+run_name: masked-hen-117
+run_uuid: 0087e0cfec0b4a6db4ca23dc94b6b013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433049636
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/fa3022136c8f4803bb1756b638b8a3c1/artifacts
+end_time: 1729432736308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3022136c8f4803bb1756b638b8a3c1
+run_name: rumbling-slug-346
+run_uuid: fa3022136c8f4803bb1756b638b8a3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432736294
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/36552c2901e94790a7e1dd4b891c91fc/artifacts
+end_time: 1729432738002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36552c2901e94790a7e1dd4b891c91fc
+run_name: trusting-newt-351
+run_uuid: 36552c2901e94790a7e1dd4b891c91fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432737988
+status: 3
+tags: []
+user_id: studio-lab-user

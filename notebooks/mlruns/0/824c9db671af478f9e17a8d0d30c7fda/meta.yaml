@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/824c9db671af478f9e17a8d0d30c7fda/artifacts
+end_time: 1729432617070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 824c9db671af478f9e17a8d0d30c7fda
+run_name: trusting-ant-245
+run_uuid: 824c9db671af478f9e17a8d0d30c7fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432617054
+status: 3
+tags: []
+user_id: studio-lab-user

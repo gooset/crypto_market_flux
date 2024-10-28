@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/505a49d827a548899028ff18c4e1d289/artifacts
+end_time: 1729432732230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 505a49d827a548899028ff18c4e1d289
+run_name: spiffy-flea-830
+run_uuid: 505a49d827a548899028ff18c4e1d289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432732215
+status: 3
+tags: []
+user_id: studio-lab-user

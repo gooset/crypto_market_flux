@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/f4a360debc3646d2b503fc30c87bcaac/artifacts
+end_time: 1729433001883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4a360debc3646d2b503fc30c87bcaac
+run_name: fortunate-squid-763
+run_uuid: f4a360debc3646d2b503fc30c87bcaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433001865
+status: 3
+tags: []
+user_id: studio-lab-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/f32dce898d244d75b290acc300d5e000/artifacts
+end_time: 1729432648445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f32dce898d244d75b290acc300d5e000
+run_name: honorable-crane-225
+run_uuid: f32dce898d244d75b290acc300d5e000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432648433
+status: 3
+tags: []
+user_id: studio-lab-user

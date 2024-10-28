@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/e2b89fcf908049cda97926d2ef3f129d/artifacts
+end_time: 1729432636196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b89fcf908049cda97926d2ef3f129d
+run_name: intelligent-duck-480
+run_uuid: e2b89fcf908049cda97926d2ef3f129d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432636185
+status: 3
+tags: []
+user_id: studio-lab-user

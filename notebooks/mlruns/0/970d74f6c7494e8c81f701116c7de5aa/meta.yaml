@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/970d74f6c7494e8c81f701116c7de5aa/artifacts
+end_time: 1729433197160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 970d74f6c7494e8c81f701116c7de5aa
+run_name: righteous-shrew-190
+run_uuid: 970d74f6c7494e8c81f701116c7de5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433197145
+status: 3
+tags: []
+user_id: studio-lab-user

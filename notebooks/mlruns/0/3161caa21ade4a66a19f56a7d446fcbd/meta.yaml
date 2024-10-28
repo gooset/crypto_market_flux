@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/3161caa21ade4a66a19f56a7d446fcbd/artifacts
+end_time: 1729432721066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3161caa21ade4a66a19f56a7d446fcbd
+run_name: luxuriant-squid-920
+run_uuid: 3161caa21ade4a66a19f56a7d446fcbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432721051
+status: 3
+tags: []
+user_id: studio-lab-user

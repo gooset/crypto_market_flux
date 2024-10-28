@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/ea22c77212414d67939c5384333d99b6/artifacts
+end_time: 1729433088362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea22c77212414d67939c5384333d99b6
+run_name: victorious-sow-218
+run_uuid: ea22c77212414d67939c5384333d99b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433088347
+status: 3
+tags: []
+user_id: studio-lab-user

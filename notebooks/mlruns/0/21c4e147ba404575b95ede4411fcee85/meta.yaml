@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/21c4e147ba404575b95ede4411fcee85/artifacts
+end_time: 1729433141722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21c4e147ba404575b95ede4411fcee85
+run_name: masked-hog-463
+run_uuid: 21c4e147ba404575b95ede4411fcee85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433141691
+status: 3
+tags: []
+user_id: studio-lab-user

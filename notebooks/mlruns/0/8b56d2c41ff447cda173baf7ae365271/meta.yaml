@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/8b56d2c41ff447cda173baf7ae365271/artifacts
+end_time: 1729433146052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b56d2c41ff447cda173baf7ae365271
+run_name: clumsy-penguin-25
+run_uuid: 8b56d2c41ff447cda173baf7ae365271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729433146037
+status: 3
+tags: []
+user_id: studio-lab-user

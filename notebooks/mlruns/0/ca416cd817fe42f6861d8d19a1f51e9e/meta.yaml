@@ -1,0 +1,15 @@
+artifact_uri: file:///home/studio-lab-user/sagemaker-studiolab-notebooks/notebooks/mlruns/0/ca416cd817fe42f6861d8d19a1f51e9e/artifacts
+end_time: 1729432645697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca416cd817fe42f6861d8d19a1f51e9e
+run_name: sneaky-pig-593
+run_uuid: ca416cd817fe42f6861d8d19a1f51e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729432645685
+status: 3
+tags: []
+user_id: studio-lab-user

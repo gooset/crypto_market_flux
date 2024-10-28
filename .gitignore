@@ -1,0 +1,31 @@
+# Ignore data files
+/data/raw/*
+# /data/processed/*
+
+# Ignore machine learning experiment logs (MLflow)
+# notebooks/mlruns/
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore environment files
+.env
